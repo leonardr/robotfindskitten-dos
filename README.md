@@ -19,3 +19,6 @@ released.
 `robot200.exe` has the version number 1600000.200, and includes a
 unique "Play again?" feature. I believe it is the final released
 version of DOS robotfindskitten, but the source code is lost.
+
+The `cs32-turtle` directory contains a student project I submitted on
+February 24, 1997, which is similar to robotfindskitten in many ways.
